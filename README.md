@@ -7,14 +7,10 @@ Este repositório contém uma série de exercícios focados em estruturas de dad
 
 ## Sumário
 
-- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Lista de Exercícios](#lista-de-exercícios)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Executar os Exercícios](#como-executar-os-exercícios)
 
-## Estrutura do Projeto
-
-A estrutura do projeto é organizada da seguinte forma:
 
 ## Lista de Exercícios
 
