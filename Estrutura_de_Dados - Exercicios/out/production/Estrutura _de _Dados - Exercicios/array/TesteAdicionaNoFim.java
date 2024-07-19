@@ -1,9 +1,9 @@
 
 public class TesteAdicionaNoFim {
     public static void main(String[] args) {
-        Aluno aluno1 = new Aluno();
-        Aluno aluno2 = new Aluno();
-        Aluno aluno3 = new Aluno();
+        AlunoVetor aluno1 = new AlunoVetor();
+        AlunoVetor aluno2 = new AlunoVetor();
+        AlunoVetor aluno3 = new AlunoVetor();
 
         aluno1.setNome("João");
         aluno2.setNome("José");

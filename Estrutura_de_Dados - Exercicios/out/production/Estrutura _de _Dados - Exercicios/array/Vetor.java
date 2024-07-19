@@ -1,14 +1,12 @@
 import java.util.Arrays;
-
-
-public class Vetor {
+public class Vetor{
 
 // Declarando um Array de Aluno com capacidade de 100.
-    private Aluno[] alunos = new Aluno[100];
+    private AlunoVetor[] alunos = new AlunoVetor[100];
     private  int tamanho = 0;
 
 
-    public void adiciona(Aluno aluno) {
+    public void adiciona(AlunoVetor aluno) {
         if (tamanho < alunos.length) {
             alunos[tamanho] = aluno;
             tamanho++;
