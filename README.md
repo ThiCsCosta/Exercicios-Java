@@ -1,5 +1,6 @@
 # Exercicios_Java
-
+##
+Estudos em adamento...
 ## Exercícios de Estrutura de Dados em Java
 
 Este repositório contém uma série de exercícios focados em estruturas de dados em Java. Cada exercício foi projetado para reforçar os conceitos fundamentais das principais estruturas de dados, como listas, pilhas, filas, árvores, grafos e tabelas hash. 
@@ -53,5 +54,4 @@ A estrutura do projeto é organizada da seguinte forma:
 1. **Clone este repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/data-structures-java.git
-   cd data-structures-java
+   git clone https://github.com/ThiCsCosta/Exercicios-Java.git
