@@ -1,5 +1,5 @@
 # Exercicios_Java
-##
+
 Estudos em adamento...
 ## Exercícios de Estrutura de Dados em Java
 
